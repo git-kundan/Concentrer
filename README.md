@@ -1,2 +1,2 @@
 # Concentrer
-Simple Pomodoro Timer
+Cocentrer (french for 'Focus') is a simple pomodoro timer.
